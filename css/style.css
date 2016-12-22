@@ -682,7 +682,10 @@ p.text-right{
 	cursor: pointer;
 }
 audio{
-	width: 666px;
+	width: 100%;
+}
+canvas{
+	width: 100%;
 }
 .about-grids{
 	margin-top:10px ;
